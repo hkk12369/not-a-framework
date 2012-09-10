@@ -1,3 +1,6 @@
+# Author: Hitesh Kumar, IIT Delhi.
+# License: http://en.wikipedia.org/wiki/WTFPL
+
 require "rack"
 
 class Panda
